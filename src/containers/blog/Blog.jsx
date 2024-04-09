@@ -16,29 +16,29 @@ const Blog = () => {
           <Article
             imgUrl={blog01}
             date="Sep 26, 2021"
-            text="GPT-3 and Open  AI is the future. Let us exlore how it is?"
+            text="Wanderlust Romance: Exploring Love Across Continents"
           />
         </div>
         <div className="gpt3__blog-container_groupB">
           <Article
             imgUrl={blog02}
             date="Sep 26, 2021"
-            text="GPT-3 and Open  AI is the future. Let us exlore how it is?"
+            text="A Journey of the Heart: Love Stories Found on the Road"
           />
           <Article
             imgUrl={blog03}
             date="Sep 26, 2021"
-            text="GPT-3 and Open  AI is the future. Let us exlore how it is?"
+            text="Passport to Passion: Love's Adventures in Foreign Lands"
           />
           <Article
             imgUrl={blog04}
             date="Sep 26, 2021"
-            text="GPT-3 and Open  AI is the future. Let us exlore how it is?"
+            text=" Romance: Finding Love in Unlikely Places"
           />
           <Article
             imgUrl={blog05}
             date="Sep 26, 2021"
-            text="GPT-3 and Open  AI is the future. Let us exlore how it is?"
+            text="Love's Odyssey: Travelling Together, Falling Forever"
           />
         </div>
       </div>

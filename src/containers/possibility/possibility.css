@@ -1,6 +1,10 @@
 .gpt3__possibility {
     display: flex;
     flex-direction: row;
+    background-image: url('/src/assets/yzk_collections/IMG_0934.JPG');
+    background-size: 100%;
+    background-position: center;
+    
 }
 
 .gpt3__possibility-image {
@@ -23,6 +27,7 @@
     justify-content: flex-end;
     align-items: flex-start;
     flex-direction: column;
+    padding-top: 300px;
 }
 
 .gpt3__possibility-content h4 {
@@ -46,7 +51,7 @@
 }
 
 .gpt3__possibility-content p {
-    color: var(--color-text);
+    color: #fff;
     font-family: var(--font-family);
     font-weight: 400;
     font-size: 16px;
